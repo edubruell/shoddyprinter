@@ -63,6 +63,15 @@ shoddy_printer(p)
 
 ## Example Output
 
+### What You Think the Reviewers Will See
+
+![](man/figures/example_normal.png)
+
+### What the Reviewers Actually See
+
+![](man/figures/example_shoddy.png)
+
+
 After running the function, here’s what you can expect:
 
 - **Grayscale**: All your beautiful colors reduced to just a few shades of gray.
