@@ -1,8 +1,6 @@
-<div style="padding-top:1em; padding-bottom: 0.5em;">
-<img src="shoddy_printer.png" width = 120 align="right" />
-</div>
 
-# shoddyprinter
+# shoddyprinter <img src="shoddy_printer.png" align="right" height="139"/>
+
 
 ### The Editor's Shoddy Printer: Simulate How Reviewers and Editors See Your Plots After Printing
 
